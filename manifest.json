@@ -6,6 +6,8 @@
   "description": "Toggles top and bottom opaque bars to help reading long texts.",
 
   "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
     "128": "icon.png"
   },
 
